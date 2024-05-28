@@ -15,3 +15,6 @@
 >>22살이다
 >>>7월생이다
 
+애기 이미지
+
+![애기 이미지](https://github.com/sh12567/lsh/blob/main/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
